@@ -221,6 +221,7 @@ footer{
 }
 .member div img{ 
     width: 80px;
+    border-radius: 25px;
 }
 .member div h1{
     flex: 1;
